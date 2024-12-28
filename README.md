@@ -1,2 +1,6 @@
 # R-Scripting---Data-Analytics---2nd-Thesis
-Analysis of impacts on Foreign Direct Investment in Ghana using R
+Impacts of Macroeconomic Variables on Foreign Direct Investment in
+Ghana: An Autoregressive Distributed Lag (ARDL) Bounds Test
+Approach in R
+
+
